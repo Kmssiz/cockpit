@@ -1,0 +1,6 @@
+{
+  "name": "cockpit",
+  "version": "0.1.0",
+  "description": "A one-row band above the prompt with just the essentials (7D/5H usage, WARM/COLD cache); Show opens a detailed card with pace, run-out forecast, cache cost per model, context trend, spend and agents.",
+  "types": "./types/index.d.ts"
+}

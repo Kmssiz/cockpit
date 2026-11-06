@@ -1,0 +1,12 @@
+{
+  "name": "cockpit",
+  "owner": { "name": "kmssiz" },
+  "description": "cockpit: a one-row usage and prompt-cache band for Claude Code.",
+  "plugins": [
+    {
+      "name": "cockpit",
+      "source": "./",
+      "description": "A one-row band above the prompt with usage pacing and prompt-cache state; Show opens an arcade-style HUD card."
+    }
+  ]
+}
